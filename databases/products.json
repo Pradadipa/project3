@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Iphone 11",
+        "harga": 7000000,
+        "curency": "IDR",
+        "createdby": 1
+    },
+    {
+        "nama": "Iphone 12",
+        "harga": 10000000,
+        "curency": "IDR",
+        "createdby": 2
+    },
+    {
+        "nama": "Iphone 13",
+        "harga": 12000000,
+        "curency": "IDR",
+        "createdby": 3
+    },
+    {
+        "nama": "Iphone 14",
+        "harga": 16000000,
+        "curency": "IDR",
+        "createdby": 4
+    }
+]

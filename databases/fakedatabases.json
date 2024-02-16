@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Prada",
+    "age": 21,
+    "cars": [
+      {
+        "name": "Nissan GTR",
+        "models": [
+          "GTR R34",
+          "GTR R35"
+        ]
+      },
+      {
+        "name": "BMW",
+        "models": [
+          "X4",
+          "xm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sukma",
+    "age": 20,
+    "cars": [
+      {
+        "name": "Honda",
+        "models": [
+          "jazz",
+          "civic"
+        ]
+      },
+      {
+        "name": "Toyota",
+        "models": [
+          "supra",
+          "fortuner"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pradadipa",
+    "age": "24"
+  }
+]
